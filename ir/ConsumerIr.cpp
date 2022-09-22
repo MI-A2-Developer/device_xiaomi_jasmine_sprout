@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-#define LOG_TAG "ConsumerIrService.wayne"
+#define LOG_TAG "ConsumerIrService.jasmine_sprout"
 
 #include <android-base/logging.h>
 
